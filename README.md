@@ -1,9 +1,11 @@
+#### Want To Sell !!
+<br/>
 <h3 align="center">Stock APP</h3>
 <p align="center">Manage Your Inventory With Easy Way</p>
 
 <img src="./assets/banner-stock-app.jpg" width="100%" alt="">
-<img src="./assets/banner-stock-app-1.png" width="100%">
 <img src="./assets/banner-stock-app-2.png" width="100%">
+<img src="./assets/banner-stock-app-3.png" width="100%">
 
 ### About
 Stock App adalah aplikasi pengelolaan inventaris berbasis website yang dibangun menggunakan Vue JS 3, Tailwindcss, Node JS, Express Js, dan MySql.
