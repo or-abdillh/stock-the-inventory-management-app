@@ -12,7 +12,8 @@ Stock App adalah aplikasi pengelolaan inventaris berbasis website yang dibangun 
 Aplikasi ini dapat mempermudah pengguna dalam mengelola inventarisnya. Konsep design yang minimalis dan mobile sangat cocok untuk pengguna yang sering beraktivitas menggunakan smartphone.
 
 Aplikasi ini dapat mengelompokkan inventaris berdasarkan kategori yang diinputkan pengguna. Mudah dalam melakukan kustomisasi informasi inventaris dengan aplikasi ini. Pengguna juga daat menggunakan fitur pencarian yang menambah kemudahan dalam mencari inventaris pengguna secara cepat.
-Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta didukung dengan layanan backend yang dibangun menggunakan Node JS membuat aktivitas pengguna dalam menggunkan aplikasi ini menjadi jau lebih cepat ketimbang teknologi <i>server side</i>
+
+Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta didukung dengan layanan backend yang dibangun menggunakan Node JS membuat aktivitas pengguna dalam menggunkan aplikasi ini menjadi jau lebih cepat ketimbang teknologi <i>server side</i> lainnya.
 
 ### User target
 - Pemilik Toko eceran maupun grosir skala kecil menengah atau seorang pengelola stok gudang yang dalam beraktivitas tidak memungkinkan menggunakan PC atau Laptop dalam melakukan pengelolaan.  
