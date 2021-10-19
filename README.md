@@ -1,5 +1,4 @@
-#### Want To Sell !!
-<br/>
+### Want To Sell !!
 <h3 align="center">Stock APP</h3>
 <p align="center">Manage Your Inventory With Easy Way</p>
 
@@ -13,11 +12,51 @@ Aplikasi ini dapat mempermudah pengguna dalam mengelola inventarisnya. Konsep de
 
 Aplikasi ini dapat mengelompokkan inventaris berdasarkan kategori yang diinputkan pengguna. Mudah dalam melakukan kustomisasi informasi inventaris dengan aplikasi ini. Pengguna juga daat menggunakan fitur pencarian yang menambah kemudahan dalam mencari inventaris pengguna secara cepat.
 
-Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta didukung dengan layanan backend yang dibangun menggunakan Node JS membuat aktivitas pengguna dalam menggunkan aplikasi ini menjadi jau lebih cepat ketimbang teknologi <i>server side</i> lainnya.
+Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta didukung dengan layanan backend yang dibangun menggunakan Node JS membuat aktivitas pengguna dalam menggunkan aplikasi ini menjadi jauh lebih cepat ketimbang teknologi <i>server side</i> lainnya.
+
+### Case Study
+- Saya mendapati seorang Pemilik Toko yang selama mengelola usahanya yang lambat laun seamakin besar mendapatkan banyak kendala dalam hal pengelolaan stok barang di toko nya. Dia sudah membuat pengelolaan berbasis MS Excel namun kurang maksimal dalam mengecek stok secara cepat dan sulit ketika harus bolak balik buka file excel hanya untuk melihat harga atau stok suatu produk.
+
+### User Wants
+- Si pemiik toko ingin ada aplikasi yang dapat membantu dia mengelola stok barang
+- Ingin aplikasi tersebut bisa menampilkan informasi berupa visual dan text dari setiap product
+- Ingin mengelola stok dengan lebih terorganisir dan rapi
+- Bisa secara cepat mencari suatu produk yang dia inginkan
+
+### Riset
+- Si pemilik toko lebih sering menggunakan smartphone ketimbang device lainnya
+- Melihat referensi mockup pada laman Dribbble dan beberapa account instagram
+- Memisah antara aplikasi frontend dan aplikasi backend
+- Menggunakan Vue JS sebagai framework untuk membangun aplikasi frontend
+- Menggunakan Node JS dan library Express JS untuk membangun aplikasi backend
+- Merancang dan membangun Rest Full API untuk handle request data dari aplikasi frontend
+- Menyiapkan database dengan menggunakan MySQL sebagai DBMS 
+
+### Solution
+- Membuat sebuah aplikasi yang dapat meyimpan informasi produk seperti foto produk, nama produk, stok dan harga. Menghadirkan fitur pencarian produk dan membuat sistem pengkategorian produk yang bisa di kustom oleh si pemilik toko
+
+### Features
+- Create new product
+- Update product
+- Remove product
+- Upload image to server
+- Remove image from server
+- Create category
+- Rename category
+- Create new category
+- Remove category
+- Product search by keyword
+- Product search by category
+- Change name 
+- Change password
+- Login with username and password
+- Minimalist design UI
 
 ### User target
 - Pemilik Toko eceran maupun grosir skala kecil menengah atau seorang pengelola stok gudang yang dalam beraktivitas tidak memungkinkan menggunakan PC atau Laptop dalam melakukan pengelolaan.  
-
+- Developer pemula yang baru memulai belajar stack teknologi Vue JS dan Node JS.
+- Mahasiswa yang ingin memulai project atau penelitian untuk Tugas akhir atau skripsi.
+ 
 ### Languages and Tools
 - Vue JS 3
 - Tailwindcss
@@ -30,20 +69,6 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - Termux
 - Acode code editor
 - Git
-
-### Features
-- Create new product
-- Update product
-- Remove product
-- Create category
-- Rename category
-- Create new category
-- Remove category
-- Product search by keyword
-- Product search by category
-- Change name 
-- Change password
-- Login with username and password
 
 ### Backend Dependencies 
 - body parser v.1.19.0
