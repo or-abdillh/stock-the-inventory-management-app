@@ -23,6 +23,9 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - Ingin mengelola stok dengan lebih terorganisir dan rapi
 - Bisa secara cepat mencari suatu produk yang dia inginkan
 
+### Solution
+- Membuat sebuah aplikasi yang dapat meyimpan informasi produk seperti foto produk, nama produk, stok dan harga. Menghadirkan fitur pencarian produk dan membuat sistem pengkategorian produk yang bisa di kustom oleh si pemilik toko
+
 ### Riset
 - Si pemilik toko lebih sering menggunakan smartphone ketimbang device lainnya
 - Melihat referensi mockup pada laman Dribbble dan beberapa account instagram
@@ -31,9 +34,6 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - Menggunakan Node JS dan library Express JS untuk membangun aplikasi backend
 - Merancang dan membangun Rest Full API untuk handle request data dari aplikasi frontend
 - Menyiapkan database dengan menggunakan MySQL sebagai DBMS 
-
-### Solution
-- Membuat sebuah aplikasi yang dapat meyimpan informasi produk seperti foto produk, nama produk, stok dan harga. Menghadirkan fitur pencarian produk dan membuat sistem pengkategorian produk yang bisa di kustom oleh si pemilik toko
 
 ### Wireframe Stock App
 - [Wireframe](http://www.canva.com/design/DAErNM4L-Ms/IEN0uh8ILGYDAijapIMZLg/view?utm_content=DAErNM4L-Ms&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#2)
@@ -89,7 +89,7 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 #### Chat [whatsapp](http://api.whatsapp.com/send?phone=6285654036810)
 
 ### Demo 
-Coming Soon 🙏🏻
+- [Demo Stock App - Inventory Management](http://www.instagram.com/reel/CVMyBH1FOdB/?utm_medium=copy_link)
 
 [Oka R Abdillah ](http://github.com/or-abdillh)
 <br>
