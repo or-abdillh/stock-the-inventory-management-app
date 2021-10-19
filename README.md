@@ -10,7 +10,7 @@
 Stock App adalah aplikasi pengelolaan inventaris berbasis website yang dibangun menggunakan Vue JS 3, Tailwindcss, Node JS, Express Js, dan MySql.
 Aplikasi ini dapat mempermudah pengguna dalam mengelola inventarisnya. Konsep design yang minimalis dan mobile sangat cocok untuk pengguna yang sering beraktivitas menggunakan smartphone.
 
-Aplikasi ini dapat mengelompokkan inventaris berdasarkan kategori yang diinputkan pengguna. Mudah dalam melakukan kustomisasi informasi inventaris dengan aplikasi ini. Pengguna juga daat menggunakan fitur pencarian yang menambah kemudahan dalam mencari inventaris pengguna secara cepat.
+Aplikasi ini dapat mengelompokkan inventaris berdasarkan kategori yang diinputkan pengguna. Mudah dalam melakukan kustomisasi informasi inventaris dengan aplikasi ini. Pengguna juga dapat menggunakan fitur pencarian yang menambah kemudahan dalam mencari inventaris pengguna secara cepat.
 
 Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta didukung dengan layanan backend yang dibangun menggunakan Node JS membuat aktivitas pengguna dalam menggunkan aplikasi ini menjadi jauh lebih cepat ketimbang teknologi <i>server side</i> lainnya.
 
@@ -34,6 +34,9 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 
 ### Solution
 - Membuat sebuah aplikasi yang dapat meyimpan informasi produk seperti foto produk, nama produk, stok dan harga. Menghadirkan fitur pencarian produk dan membuat sistem pengkategorian produk yang bisa di kustom oleh si pemilik toko
+
+### Wireframe Stock App
+- [Wireframe](http://www.canva.com/design/DAErNM4L-Ms/IEN0uh8ILGYDAijapIMZLg/view?utm_content=DAErNM4L-Ms&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#2)
 
 ### Features
 - Create new product
@@ -69,6 +72,8 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - Termux
 - Acode code editor
 - Git
+- API Client
+- Google Chrome
 
 ### Backend Dependencies 
 - body parser v.1.19.0
@@ -80,7 +85,6 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - random token v.0.0.8
 - nodemon 2.0.13
 
-### Want To Sell
 #### DM me [@or_abdillh](http://www.instagram.com/or_abdillh/)
 #### Chat [whatsapp](http://api.whatsapp.com/send?phone=6285654036810)
 
@@ -89,4 +93,4 @@ Coming Soon 🙏🏻
 
 [Oka R Abdillah ](http://github.com/or-abdillh)
 <br>
-Last edited on : 18/10/2021
+Last edited on : 19/10/2021
