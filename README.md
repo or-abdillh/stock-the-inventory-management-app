@@ -2,9 +2,7 @@
 <h3 align="center">Stock APP</h3>
 <p align="center">Manage Your Inventory With Easy Way</p>
 
-<img src="./assets/banner-stock-app.jpg" width="100%" alt="">
-<img src="./assets/banner-stock-app-2.png" width="100%">
-<img src="./assets/banner-stock-app-3.png" width="100%">
+<img src="./assets/banner.jpg" width="100%" alt="">
 
 ### About
 Stock App adalah aplikasi pengelolaan inventaris berbasis website yang dibangun menggunakan Vue JS 3, Tailwindcss, Node JS, Express Js, dan MySql.
@@ -23,10 +21,10 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 - Ingin mengelola stok dengan lebih terorganisir dan rapi
 - Bisa secara cepat mencari suatu produk yang dia inginkan
 
-### Solution
+### Solutions
 - Membuat sebuah aplikasi yang dapat meyimpan informasi produk seperti foto produk, nama produk, stok dan harga. Menghadirkan fitur pencarian produk dan membuat sistem pengkategorian produk yang bisa di kustom oleh si pemilik toko
 
-### Riset
+### Research
 - Si pemilik toko lebih sering menggunakan smartphone ketimbang device lainnya
 - Melihat referensi mockup pada laman Dribbble dan beberapa account instagram
 - Memisah antara aplikasi frontend dan aplikasi backend
@@ -38,59 +36,50 @@ Stock App sudah menerapkan konsep SPA atau <i>singgle page application</i> serta
 ### Wireframe Stock App
 - [Wireframe](http://www.canva.com/design/DAErNM4L-Ms/IEN0uh8ILGYDAijapIMZLg/view?utm_content=DAErNM4L-Ms&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#2)
 
-### Features
-- Create new product
-- Update product
-- Remove product
-- Upload image to server
-- Remove image from server
-- Create category
-- Rename category
-- Create new category
-- Remove category
-- Product search by keyword
-- Product search by category
-- Change name 
-- Change password
-- Login with username and password
-- Minimalist design UI
+### Functionality
+#### User
+- User dapat menambahkan produk baru
+- User dapat mengubah atau menghapus sebuah produk
+- User dapat mengkategorikan produk berdasarkan kategori yang user inginkan
+- User dapat membuat, mengubah, atau menghapus sebuah kategori
+- User dapat melakukan pencarian produk berdasarkan nama produk atau kategorinya
+- User dapat mengubah display name pada aplikasi
+- User dapat mengubah kata sandi
+
+#### System
+- Sistem hanya bisa membuat satu produk atau kategori baru dalam satu sesi ke dalam database
+- Sistem hanya bisa menghapus satu produk atau kategori dalam satu sesi
+- Jika user melakukan perubahan pada produk dengan mengubah image product, maka sistem akan menghapus image product sebelumnya dari server jika upload image product yang baru sukses
+- Jika user tidak melakukan perubahan pada image product saat melakukan perubahan suatu produk, maka sistem tidak akan mengupload ulang image product
+- Fitur pencarian berdasarkan keyword yang relevan dengan name product pada database Products
+- Fitur pencarian hanya bisa menggunakan satu kategori spesifik saja saat digunakan
+- Jika user menghapus suatu produk maka file image product tersebut juga akan dihapus dari server
+- Jika user menghapus suatu kategori, maka produk yang menggunakan kategori tersebut akan di set ulang menjadi 'uncategorys'
+- Jika user melakukan perubahan pada suatu kategori maka produk yang menggunakan kategori tersebut juga akan di set ulang berdasarkan kategori baru
+- Sistem tidak bisa digunakan secara bersamaan jika menggunakan browser yang berbeda, harus login ulang dan salah satunya akan logout
+- Jika user ingin mengubah kata sandi , maka aksi akan bisa dilakukan jika user berhasil melakukan konfirmasi kata sandi baru
 
 ### User target
 - Pemilik Toko eceran maupun grosir skala kecil menengah atau seorang pengelola stok gudang yang dalam beraktivitas tidak memungkinkan menggunakan PC atau Laptop dalam melakukan pengelolaan.  
 - Developer pemula yang baru memulai belajar stack teknologi Vue JS dan Node JS.
 - Mahasiswa yang ingin memulai project atau penelitian untuk Tugas akhir atau skripsi.
  
-### Languages and Tools
+### Main Technology
 - Vue JS 3
 - Tailwindcss
-- Font Awesome 5
-- Google Fonts
 - Node JS
 - Express JS
 - MySql
-- Vite Js
-- Termux
-- Acode code editor
-- Git
-- API Client
-- Google Chrome
 
-### Backend Dependencies 
-- body parser v.1.19.0
-- cors v.2.8.5
-- express v.4.17.1
-- express fileupload v.1.2.1
-- md5 v.2.3.0
-- mysql v.2.18.1
-- random token v.0.0.8
-- nodemon 2.0.13
+### Get for free
+- [Stock App - Client Application](https://github.com/or-abdillh/stock-app)
+- [Stock API - Backend Application](https://github.com/or-abdillh/stock-api)
 
-#### DM me [@or_abdillh](http://www.instagram.com/or_abdillh/)
-#### Chat [whatsapp](http://api.whatsapp.com/send?phone=6285654036810)
-
-### Demo 
-- [Demo Stock App - Inventory Management](http://www.instagram.com/reel/CVMyBH1FOdB/?utm_medium=copy_link)
+### Thanks 
+- Support me with a cup of coffee and other snacks [here ..](https://saweria.co/orabdillh)
+- Don't forget to give me star in this repository 🙏🏻🙏🏻
+- See my other projects on instagram [@or_abdillh](http://www.instagram.com/or_abdillh)
 
 [Oka R Abdillah ](http://github.com/or-abdillh)
 <br>
-Last edited on : 19/10/2021
+Last edited on : 30/10/2021
