@@ -1,4 +1,3 @@
-### Want To Sell !!
 <h3 align="center">Stock APP</h3>
 <p align="center">Manage Your Inventory With Easy Way</p>
 
